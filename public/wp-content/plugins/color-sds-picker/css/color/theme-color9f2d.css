@@ -1,0 +1,147 @@
+
+
+/*** 
+=====================================================
+	Theme Main Color Css
+=====================================================
+***/
+.thm-clr,
+.main-menu .navigation>li:hover>a,
+.main-menu .navigation>li.current>a,
+.main-menu .navigation>li>ul>li>a:hover,
+.main-menu .navigation> li> ul> li:hover> a,
+.main-menu .navigation> li> ul> li> ul> li> a:hover,
+.main-menu .navigation> li> .megamenu li:hover a,
+.main-menu.style2 .navigation>li:hover>a,
+.main-menu.style2 .navigation>li.current>a,
+.main-slider .content h5,
+.main-menu .navigation> li> ul> li.dropdown> a:after,
+.mobile-menu .navigation li.current > a,
+.mobile-menu .navigation li > a:hover,
+.outer-search-box-style1 .seach-toggle:hover,
+.outer-search-box-style1 .seach-toggle.active,
+.sticky-header .main-menu .navigation>li:hover>a,
+.sticky-header .main-menu .navigation>li.current>a,
+.about-style1-content-box .inner-content ul li span,
+.about-style1-content-box .inner-content .bottom-box .title h3,
+.single-featured-style1 .img-holder .title a:hover,
+.recent-project-title:before,
+.single-testimonial-style1 .client-info .title-box span,
+.testimonial-style2-image-box .bg-box:before,
+.single-blog-style1 .text-holder .meta-info li span:before,
+.single-blog-style1 .text-holder .blog-title a:hover,
+.single-fact-counter .count-box .icon,
+.single-footer-widget .footer-contact-info ul li .title p a:hover,
+.welcome-style1-content-box .inner-content .bottom-box h3 a,
+.single-featured-style2 .icon,
+.single-service-style1.style1instyle2 .text-holder h3 a:hover,
+.team-social-link ul li a:hover,
+.project-complected-box .title h2,
+.about-style2-content-box .inner-content .title h3,
+.about-style2-phone-number h3 a,
+.breadcrumb-menu ul li:hover a,
+.breadcrumb-menu ul li.active,
+.accordion-box .accordion .accord-btn.active h4,
+.sidebar-categories-box li a:before,
+.sidebar-contact-info-box .icon span,
+.service-details-quote-box:before,
+.service-details-text-2 .text-box h3,
+.service-details-text-2 .text-box ul li span,
+.project-detail-main-image .project-info ul li ul li a,
+.project-detail-text-2 .text-box ul li span,
+.project-detail-text-3 h3,
+.project-detail-text-4 h3,
+.sidebar-search-box .search-form input[type="text"]:focus + button,
+.sidebar-search-box .search-form button:hover,
+.single-sidebar .recent-posts li .title-box h6,
+.single-sidebar .popular-tag li a:hover,
+.tag-box .tag-list li a:hover,
+.header-contact-info ul li .text h4 a:hover,
+.phone-number-box .title a:hover,
+.about-style1-image-box .main-image .icon-box:before,
+.about-style2-image-box .main-image .icon-box:before{
+    color: #d9a95b;
+}
+
+
+
+
+
+/*** 
+=====================================================
+	Theme Main Background Color Css
+=====================================================
+***/
+.thm-bgclr,
+.main-menu .navigation>li>ul>li>a:before,
+.main-menu .navigation> li> .megamenu li> a:before,
+.scroll-top,
+.btn-one.style2,
+.nav-outer .mobile-nav-toggler .inner,
+.main-menu .navigation>li>a:before,
+.header-social-link ul li a:before,
+.main-slider .content .big-title:before,
+.sec-title .sub-title h3:before,
+.free-estimate-box:before,
+.btn-one:after,
+.interior-design-tab .tab-button-column .tab-buttons li.tab-btn:hover,
+.interior-design-tab .tab-button-column .tab-buttons li.tab-btn.active-btn,
+.single-service-style1 .text-holder .readmore-button a:hover,
+.single-blog-style1 .img-holder .date-box,
+.single-fact-counter .sub-title:before,
+.discover-area:before,
+.single-footer-widget .title h3:before,
+.phone-number-box .icon span:before,
+.single-featured-style2 .icon:before,
+.single-service-style1.style1instyle2:hover .text-holder .readmore-button a,
+.project-style2-title-box:before,
+.owl-carousel.owl-dot-style1 .owl-dots .owl-dot.active,
+.single-sidebar .title h3:before,
+.styled-pagination li.prev a,
+.styled-pagination li.next a,
+.sidebar-search-box {
+    background: #d9a95b;
+}
+
+
+
+
+/*** 
+=====================================================
+	Theme Main Gradient Color Css
+=====================================================
+***/
+.single-project-style1 .img-holder:before {
+    background: rgba(217,169,91,0);
+    background: -moz-linear-gradient(top, rgba(217,169,91,0) 0%, rgba(217,169,91,0) 22%, rgba(217,169,91,0.37) 51%, rgba(217,169,91,1) 100%);
+    background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(217,169,91,0)), color-stop(22%, rgba(217,169,91,0)), color-stop(51%, rgba(217,169,91,0.37)), color-stop(100%, rgba(217,169,91,1)));
+    background: -webkit-linear-gradient(top, rgba(217,169,91,0) 0%, rgba(217,169,91,0) 22%, rgba(217,169,91,0.37) 51%, rgba(217,169,91,1) 100%);
+    background: -o-linear-gradient(top, rgba(217,169,91,0) 0%, rgba(217,169,91,0) 22%, rgba(217,169,91,0.37) 51%, rgba(217,169,91,1) 100%);
+    background: -ms-linear-gradient(top, rgba(217,169,91,0) 0%, rgba(217,169,91,0) 22%, rgba(217,169,91,0.37) 51%, rgba(217,169,91,1) 100%);
+    background: linear-gradient(to bottom, rgba(217,169,91,0) 0%, rgba(217,169,91,0) 22%, rgba(217,169,91,0.37) 51%, rgba(217,169,91,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d9a95b', endColorstr='#d9a95b', GradientType=0 );
+}
+
+
+
+
+/*** 
+=====================================================
+	Theme Main Border Color Css
+=====================================================
+***/
+.mobile-menu .navigation li > a:before {
+    border-left: 5px solid #d9a95b;
+}
+
+
+
+
+
+
+
+
+
+
+
+

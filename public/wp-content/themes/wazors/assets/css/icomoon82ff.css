@@ -1,0 +1,296 @@
+
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/icomoonda59.eot?vdw2jk');
+  src:  url('../fonts/icomoonda59.eot?vdw2jk#iefix') format('embedded-opentype'),
+    url('../fonts/icomoonda59.ttf?vdw2jk') format('truetype'),
+    url('../fonts/icomoonda59.woff?vdw2jk') format('woff'),
+    url('../fonts/icomoonda59.svg?vdw2jk#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.icon-allah-word:before {
+  content: "\e900";
+}
+.icon-multiply:before {
+  content: "\e901";
+}
+.icon-clock:before {
+  content: "\e902";
+}
+.icon-plus:before {
+  content: "\e903";
+}
+.icon-minus:before {
+  content: "\e904";
+}
+.icon-play-button:before {
+  content: "\e905";
+}
+.icon-play-button-1:before {
+  content: "\e906";
+}
+.icon-star-of-favorites-outline:before {
+  content: "\e907";
+}
+.icon-next:before {
+  content: "\e908";
+}
+.icon-search:before {
+  content: "\e909";
+}
+.icon-bag:before {
+  content: "\e90a";
+}
+.icon-quote:before {
+  content: "\e90b";
+}
+.icon-star:before {
+  content: "\e90c";
+}
+.icon-favourite:before {
+  content: "\e90d";
+}
+.icon-quote-1:before {
+  content: "\e90e";
+}
+.icon-next-1:before {
+  content: "\e90f";
+}
+.icon-file:before {
+  content: "\e910";
+}
+.icon-doc:before {
+  content: "\e911";
+}
+.icon-link:before {
+  content: "\e912";
+}
+.icon-call:before {
+  content: "\e913";
+}
+.icon-pin:before {
+  content: "\e914";
+}
+.icon-calendar:before {
+  content: "\e915";
+}
+.icon-verified:before {
+  content: "\e916";
+}
+.icon-user:before {
+  content: "\e917";
+}
+.icon-maps-and-flags:before {
+  content: "\e918";
+}
+.icon-mail:before {
+  content: "\e919";
+}
+.icon-tick:before {
+  content: "\e91a";
+}
+.icon-check:before {
+  content: "\e91b";
+}
+.icon-quote-2:before {
+  content: "\e91c";
+}
+.icon-confirmation:before {
+  content: "\e91d";
+}
+.icon-telephone:before {
+  content: "\e91e";
+}
+.icon-email:before {
+  content: "\e91f";
+}
+.icon-pin-1:before {
+  content: "\e920";
+}
+.icon-placeholder:before {
+  content: "\e921";
+}
+.icon-down-arrow:before {
+  content: "\e922";
+}
+.icon-quote-3:before {
+  content: "\e923";
+}
+.icon-open-archive:before {
+  content: "\e924";
+}
+.icon-send:before {
+  content: "\e925";
+}
+.icon-phone:before {
+  content: "\e926";
+}
+.icon-envelope:before {
+  content: "\e927";
+}
+.icon-pin-2:before {
+  content: "\e928";
+}
+.icon-left-quotes-sign:before {
+  content: "\e929";
+}
+.icon-phone-call:before {
+  content: "\e92a";
+}
+.icon-dog-food:before {
+  content: "\e92b";
+}
+.icon-bone:before {
+  content: "\e92c";
+}
+.icon-pet-bowl:before {
+  content: "\e92d";
+}
+.icon-dog:before {
+  content: "\e92e";
+}
+.icon-vet:before {
+  content: "\e92f";
+}
+.icon-veterinary:before {
+  content: "\e930";
+}
+.icon-injection:before {
+  content: "\e931";
+}
+.icon-vaccine:before {
+  content: "\e932";
+}
+.icon-tag:before {
+  content: "\e933";
+}
+.icon-left-arrow .path1:before {
+  content: "\e934";
+  color: rgb(33, 150, 243);
+}
+.icon-left-arrow .path2:before {
+  content: "\e935";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon-left-arrow .path3:before {
+  content: "\e936";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon-right-arrow .path1:before {
+  content: "\e937";
+  color: rgb(33, 150, 243);
+}
+.icon-right-arrow .path2:before {
+  content: "\e938";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon-right-arrow .path3:before {
+  content: "\e939";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.icon-search-interface-symbol:before {
+  content: "\e93a";
+}
+.icon-dog-1:before {
+  content: "\e93b";
+}
+.icon-down-arrow-1:before {
+  content: "\e93c";
+}
+.icon-at-1:before {
+  content: "\e93d";
+}
+.icon-mail-1:before {
+  content: "\e93e";
+}
+.icon-at:before {
+  content: "\e93f";
+}
+.icon-note:before {
+  content: "\e940";
+}
+.icon-triangular-down-arrow:before {
+  content: "\e941";
+}
+.icon-basket:before {
+  content: "\e942";
+}
+.icon-coach:before {
+  content: "\e943";
+}
+.icon-stethoscope:before {
+  content: "\e944";
+}
+.icon-pet-insurance:before {
+  content: "\e945";
+}
+.icon-flask:before {
+  content: "\e946";
+}
+.icon-veterinarian:before {
+  content: "\e947";
+}
+.icon-telemarketing:before {
+  content: "\e948";
+}
+.icon-eye:before {
+  content: "\e949";
+}
+.icon-chat:before {
+  content: "\e94a";
+}
+.icon-calendar-1:before {
+  content: "\e94b";
+}
+.icon-grid:before {
+  content: "\e94c";
+}
+.icon-menu:before {
+  content: "\e94d";
+}
+.icon-reply:before {
+  content: "\e94e";
+}
+.icon-pen:before {
+  content: "\e94f";
+}
+.icon-earth-grid-symbol:before {
+  content: "\e950";
+}
+.icon-twitter:before {
+  content: "\e951";
+}

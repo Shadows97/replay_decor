@@ -1,0 +1,240 @@
+
+
+
+/*** 
+=============================================
+    Blog Style1 Area Css
+=============================================
+***/
+.blog-style1-area{
+    position: relative;
+    display: block;
+    background: #ffffff;
+    padding: 120px 0 80px;
+    z-index: 1;
+}
+.blog-style1-area:before{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 515px;
+    background: #f6f2eb;
+    content: "";
+    z-index: -1;
+}
+.single-blog-style1{
+    position: relative;
+    display: block;
+    margin-bottom: 40px;
+}
+.single-blog-style1 .img-holder{
+    position: relative;
+    display: block;
+}
+.single-blog-style1 .img-holder .inner{
+    position: relative;
+    display: block;
+    overflow: hidden;
+    border-radius: 5px;
+}
+.single-blog-style1 .img-holder .inner:before {
+    position: absolute;
+    content: '';
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #333029;
+    opacity: 0;
+    border-radius: 3px;
+    -webkit-transition: .5s;
+    -o-transition: .5s;
+    transition: .5s;
+    -webkit-transform: perspective(400px) rotateX(-90deg);
+    -ms-transform: perspective(400px) rotateX(-90deg);
+    transform: perspective(400px) rotateX(-90deg);
+    -webkit-transform-origin: top;
+    -ms-transform-origin: top;
+    transform-origin: top;
+    border-radius: 6px;
+    z-index: 2;
+}
+.single-blog-style1:hover .img-holder .inner:before{
+    opacity: .3;
+    -webkit-transform: perspective(400px) rotateX(0deg);
+    -ms-transform: perspective(400px) rotateX(0deg);
+    transform: perspective(400px) rotateX(0deg);
+}
+
+.single-blog-style1 .img-holder .overlay-icon {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    z-index: 3;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    -webkit-transition: .9s;
+    -o-transition: .9s;
+    transition: .9s;
+    transform: perspective(400px) scaleY(0);
+    transform-origin: bottom;
+}
+.single-blog-style1:hover .img-holder .overlay-icon{
+    transform: perspective(400px) scaleY(1.0);    
+}
+
+.single-blog-style1 .img-holder .overlay-icon a{
+    position: relative;
+    display: inline-block;
+    top: -10px;
+}
+.single-blog-style1 .img-holder .overlay-icon span{
+    color: #ffffff;
+    font-size: 30px;
+    line-height: 30px;
+}
+
+.single-blog-style1 .img-holder .inner img {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+    -webkit-transition: -webkit-transform .4s ease;
+    transition: -webkit-transform .4s ease;
+    transition: transform .4s ease;
+    transition: transform .4s ease, -webkit-transform .4s ease;
+}
+.single-blog-style1:hover .img-holder .inner img{
+    -webkit-transform: scale(1.05);
+    transform: scale(1.05);    
+}
+.single-blog-style1 .img-holder .date-box {
+    position: absolute;
+    bottom: 30px;
+    right: 30px;
+    padding: 9px 20px 9px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    z-index: 5;
+}
+.single-blog-style1 .img-holder .date-box h5{
+    color: #ffffff;
+    font-size: 12px ;
+    line-height: 20px;
+    font-weight: 700 ;
+   
+}
+
+.single-blog-style1 .text-holder {
+    position: relative;
+    display: block;
+    background: #ffffff;
+    padding: 30px;
+    margin-top: -30px;
+    margin-right: 30px;
+    -webkit-transition: all 0.4s linear;
+    -o-transition: all 0.4s linear;
+    transition: all 0.4s linear;    
+    z-index: 2;
+}
+.single-blog-style1:hover .text-holder{
+    box-shadow: 0px 10px 60px 0px rgba(0, 0, 0, 0.05);    
+}
+.single-blog-style1 .text-holder .meta-info {
+    position: relative;
+    display: block;
+    overflow: hidden;
+    padding-bottom: 6px;
+}
+.single-blog-style1 .text-holder .meta-info li{
+    position: relative;
+    display: inline-block;
+    float: left;
+    line-height: 24px;
+    margin-right: 20px;
+}
+.single-blog-style1 .text-holder .meta-info li:last-child{
+    margin-right: 0px;
+}
+.single-blog-style1 .text-holder .meta-info li span:before {
+    position: relative;
+    display: inline-block;
+    padding-right: 6px;
+    font-size: 14px;
+    left: 1px;
+}
+.single-blog-style1 .text-holder .meta-info li a {
+    color: #84827c;
+    font-size: 14px;
+    font-weight: 500;
+    transition: all 200ms linear;
+    transition-delay: 0.1s;
+}
+.single-blog-style1 .text-holder .blog-title {
+    color: #333029;
+    font-size: 24px;
+    line-height: 34px;
+    font-weight: 700;
+}
+.single-blog-style1 .text-holder .blog-title a{
+    color: #333029;
+    transition: all 200ms linear;
+    transition-delay: 0.1s;
+}
+.single-blog-style1 .text-holder .text{
+    position: relative;
+    display: block;
+    padding-top: 10px;
+}
+.single-blog-style1 .text-holder .text p{
+    color: #84827c;
+    font-size: 16px;
+    line-height: 30px;
+    font-weight: 500;
+    margin: 0;
+}
+/*** 
+=============================================
+    Blog Style2 Area Css
+=============================================
+***/
+.blog-style2-area{
+    position: relative;
+    display: block;
+    background: #ffffff;
+    padding: 120px 0 0px;
+    z-index: 1;
+}
+.blog-style2-area:before {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    height: 148px;
+    background: #f6f2eb;
+    content: "";
+}
+.blog-style2-area.element-page{
+    padding: 120px 0 120px;
+}
+.blog-style2-area.element-page:before{
+    display: none;
+}
+
+.single-blog-style1.style1instyle2{
+    margin-bottom: 0;
+}
+.single-blog-style1.style1instyle2 .text-holder {
+    padding: 24px 30px 25px;
+    padding-right: 30px;
+    box-shadow: 0px 10px 60px 0px rgba(0, 0, 0, 0.05);    
+}
+.single-blog-style1:hover .text-holder{
+
+}
+
+
+

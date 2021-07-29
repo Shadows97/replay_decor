@@ -1,0 +1,1548 @@
+
+@media only screen and (max-width: 5000px){
+.boxed_wrapper_box_page{
+    overflow-x: hidden;
+}
+ 
+
+}
+
+
+/* Large Layout: 1200px. */
+@media only screen and (min-width: 1200px){
+
+    
+}
+
+
+
+/* Medium screen  */ 
+@media only screen and (min-width: 992px) and (max-width: 1199px) { 
+
+/*** Header Style One Css ***/     
+.header-contact-info ul li {
+    padding-right: 21px;
+    margin-right: 20px;
+}
+.nav-outer .mobile-nav-toggler {
+    padding: 15px 0;
+}    
+  
+/*** About Style1 Area Css ***/  
+.about-style1-area .shape1 img{
+    width: 50%;
+    opacity: .4;
+}    
+.about-style1-area .shape2 img{
+    width: 80%;
+}    
+.about-style1-image-box {
+    max-width: 570px;
+    width: 100%;
+    margin-top: 60px;
+}           
+      
+/*** Featured Style1 Area Css ***/ 
+.free-estimate-box {
+    padding: 20px 0 30px;
+}  
+.free-estimate-box .icon-box {
+    top: -35px;
+    right: -35px;
+    font-size: 110px;
+}    
+.free-estimate-box ul {
+    margin-top: 5px;
+    margin-bottom: 14px;
+}    
+.free-estimate-box ul li {
+    margin-bottom: 11px;
+}    
+    
+/*** Interior Design Area Css ***/ 
+.material-tab-content .text-box {
+    padding-top: 10px;
+}    
+.interior-design-right-content {
+    padding-top: 100px;
+}    
+    
+/*** Project Style1 Area Css ***/ 
+.project-style1-area {
+    padding: 0px 0 90px;
+}    
+.project-style1-content {
+    position: relative;
+    display: block;
+    margin: 0;
+}    
+.project-style1-content li {
+    max-width: 470px;
+    width: 100%;
+    float: none;
+    margin: 0 auto 30px;
+}
+    
+/*** Booking Area Css ***/ 
+.booking-content-box {
+    padding: 4px 0 4px;
+}    
+.booking-number-box .title p {
+    font-size: 18px;
+    line-height: 24px;
+    margin: 0 0 4px;
+}    
+.booking-number-box .title h2 {
+    font-size: 28px;
+}    
+.booking-content-box .buttom-box a {
+    padding: 0 40px;
+}    
+    
+/*** Testimonial Style1 Area Css ***/ 
+.testimonial-style1-content {
+    padding-top: 120px;
+    padding-right: 0px;
+}    
+.testimonial-style2-image-box {
+    margin-top: 50px;
+    margin-left: 0px;
+}    
+.testimonial-style2-image-box img {
+    max-width: 100%;
+    width: 100%;
+    float: none;
+} 
+.testimonial-style2-image-box .bg-box:before {
+    display: none;
+}    
+    
+   
+/*** Partner Area Css ***/     
+.partner-area {
+    padding-top: 115px;
+    padding-bottom: 75px;
+}    
+    
+/*** Footer Area Css ***/        
+.single-footer-widget.marbtm {
+    margin-bottom: 40px;
+}    
+.single-footer-widget.marleft40 {
+    margin-left: 0px;
+}
+
+    
+    
+    
+    
+/*** Header Style Two Css ***/ 
+.header-left-style2 {
+    width: 50%;
+}    
+.header-left-style2 .logo {
+    width: 280px;
+}    
+.header-middle-style2 {
+    width: 30%;
+}    
+.header-middle-style2 .nav-outer .mobile-nav-toggler {
+    padding: 42px 0 43px;
+}    
+    
+/*** Welcome Style1 Area Css ***/ 
+.welcome-style1-image-box {
+    max-width: 700px;
+} 
+.welcome-style1-image-box .shape {
+    bottom: 0;
+}    
+.welcome-style1-content-box {
+    padding: 60px 0px 0px;
+}    
+    
+/*** Featured Style2 Area Css ***/     
+.single-featured-style2 {
+    padding: 50px 25px 40px;
+    max-width: 231px;
+}    
+    
+/*** Choose Style1 Area Css ***/ 
+.choose-style1-area {
+    border-bottom: 1px solid #ebe5db;
+}    
+.choose-style1-image-box:before {
+    position: absolute;
+    top: -120px;
+    left: 230px;
+    bottom: 0px;
+}  
+.choose-style1-image-box img {
+    border-radius: 7px;
+}    
+.choose-style1-content-box {
+    padding-top: 50px;
+    padding-left: 0px;
+}    
+  
+/*** Project Style2 Area Css ***/
+.project-style2-title-box {
+    width: 100%;
+    height: 100%;
+    padding-top: 110px;
+    padding-right: 0px;
+    padding-bottom: 61px;
+}
+.project-style2-title-box:before {
+    left: -100000px;
+    bottom: 0px;
+    right: -300px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+} 
+.project-style2-title-box:after {
+    left: -100000px;
+    bottom: 0px;
+    right: -300px;
+}      
+.project-style2-content-box {
+    padding-top: 0px;
+}    
+.project-complected-box {
+    position: relative;
+    top: 0;
+    left: 0;
+    right: auto;
+    padding-left: 110px;
+    padding-top: 66px;
+    margin-bottom: 40px;
+}    
+    
+/*** Contact Form Style1 Area Css ***/    
+.contact-form-outer-box {
+    padding: 60px;
+    padding-bottom: 60px;
+    margin-bottom: -120px;
+}    
+    
+/*** About Style2 Area Css ***/     
+.about-style2-image-box .main-image .icon-box {
+    top: 20px;
+    left: 20px;
+}    
+.about-style2-content-box {
+    padding-left: 0px;
+    padding-top: 40px;
+}        
+    
+/*** Faq Page Area Css ***/       
+.faq-right-content-box {
+    position: relative;
+    display: block;
+    margin-top: 10px;
+}    
+
+/*** Service Details Area Css ***/ 
+.service-details-area {
+    padding: 120px 0 120px;
+}    
+.service-details-text-2 .image-box {
+    margin-top: 20px;
+}    
+   
+/*** Project Details Area Css ***/     
+.project-detail-main-image .project-info {
+    padding: 32px 0 32px;
+}    
+.project-detail-main-image .project-info> ul> li {
+    float: none;
+    max-width: 100%;
+    width: 100%;
+    text-align: center;
+}    
+.project-detail-main-image .project-info> ul> li:before {
+    display: none;
+}  
+.project-detail-main-image .project-info ul li ul {
+    padding-left: 0px;
+}       
+.project-detail-text-2 .text-box {
+    margin-top: -9px;
+    margin-right: 0px;
+}    
+.video-holder-box {
+    margin-top: 40px;
+    margin-left: 0px;
+}    
+    
+/*** Contact Info Area Css ***/     
+.single-contact-info-box {
+    padding: 50px 30px 40px;
+}    
+ 
+    
+/*** RTL Css ***/        
+.rtl .single-footer-widget.marleft40 {
+    margin-left: 0px;
+    margin-right: 0px;
+}  
+}
+
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) { 
+
+/*** Header Style One Css ***/ 
+.header-top {
+    padding: 31px 0 31px;
+}    
+.header-top-left {
+    float: none;
+    overflow: hidden;
+    text-align: center;
+}    
+.header-top-left .logo {
+    float: none;
+    padding: 0;
+}    
+.header-top-right {
+    display: none;
+}    
+.header-right .header-social-link {
+    padding: 32px 0 33px;
+}    
+.header-right .button {
+    padding: 25px 0;
+}    
+    
+/*** About Style1 Area Css ***/  
+.about-style1-area .shape1 img{
+    width: 70%;
+    opacity: .2;
+}    
+.about-style1-area .shape2 img{
+    width: 80%;
+}    
+.about-style1-image-box {
+    max-width: 570px;
+    width: 100%;
+    margin-top: 60px;
+}           
+  
+/*** Featured Style1 Area Css ***/     
+.featured-style1-area {
+    padding: 0 0 120px;
+}    
+    
+/*** Interior Design Area Css ***/ 
+.material-tab-content .text-box {
+    padding-top: 10px;
+}    
+.interior-design-right-content {
+    padding-top: 100px;
+}    
+ 
+/*** Project Style1 Area Css ***/ 
+.project-style1-area {
+    padding: 0px 0 90px;
+}    
+.project-style1-content {
+    position: relative;
+    display: block;
+    margin: 0;
+}    
+.project-style1-content li {
+    max-width: 470px;
+    width: 100%;
+    float: none;
+    margin: 0 auto 30px;
+}
+ 
+/*** Service Style1 Area Css ***/   
+.service-style1-area {
+    padding: 120px 0 60px;
+}    
+.single-service-style1 {
+    margin-bottom: 60px;
+}    
+    
+/*** Booking Area Css ***/ 
+.booking-number-box {
+    text-align: center;
+} 
+.booking-number-box .icon {
+    width: 100%;
+    line-height: 60px;
+}    
+.booking-number-box .icon, 
+.booking-number-box .title {
+    display: block;
+}    
+.booking-number-box .icon {
+    width: 100%;
+    margin-bottom: 22px;
+}    
+.booking-number-box .title p {
+    margin: 0 0 4px;
+}    
+ 
+.booking-content-box {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 22px 0 0px;
+}    
+.booking-content-box .text {
+    text-align: center;
+    margin: 0 0 10px;
+}
+    
+/*** Testimonial Style1 Area Css ***/ 
+.testimonial-style1-content {
+    padding-top: 120px;
+    padding-right: 0px;
+}    
+.testimonial-style2-image-box {
+    margin-top: 50px;
+    margin-left: 0px;
+}    
+.testimonial-style2-image-box img {
+    max-width: 100%;
+    width: 100%;
+    float: none;
+}    
+.testimonial-style2-image-box .title-box {
+    left: -108px;
+    top: 79px;
+} 
+.testimonial-style2-image-box .bg-box:before {
+    display: none;
+}      
+    
+/*** Fact Counter Area Css ***/     
+.single-fact-counter {
+    max-width: 50%;
+    width: 100%;
+}    
+.single-fact-counter:after {
+    top: 0;
+    right: 0;
+    height: auto;
+    bottom: 0;
+}    
+    
+/*** Partner Area Css ***/     
+.partner-area {
+    padding-top: 115px;
+    padding-bottom: 75px;
+}    
+        
+/*** Discover Area Css ***/ 
+.discover-area {
+    padding-bottom: 120px;
+}      
+    
+/*** Footer Area Css ***/        
+.single-footer-widget.marbtm {
+    margin-bottom: 40px;
+}    
+.single-footer-widget.marleft40 {
+    margin-left: 0px;
+}      
+    
+/*** Header Style Two Css ***/
+.header-style2 .auto-container-box {
+    padding-right: 20px;
+}    
+.header-left-style2 {
+    width: 50%;
+}    
+.header-left-style2 .logo {
+    width: 280px;
+}  
+.phone-number-box {
+    display: none;
+}    
+
+.header-middle-style2 {
+    width: 50%;
+}    
+.header-middle-style2 .nav-outer .mobile-nav-toggler {
+    padding: 42px 0 43px;
+}
+.header-middle-style2 .nav-outer {
+    float: right;
+}      
+.header-right-style2 {
+    display: none;
+}  
+    
+/*** Welcome Style1 Area Css ***/ 
+.welcome-style1-image-box {
+    max-width: 700px;
+} 
+.welcome-style1-image-box .shape {
+    bottom: 0;
+}    
+.welcome-style1-content-box {
+    padding: 60px 0px 0px;
+}    
+   
+/*** Featured Style2 Area Css ***/       
+.single-featured-style2 {
+    padding: 50px 50px 40px;
+    max-width: 345px;
+    border: none;
+}    
+
+/*** Choose Style1 Area Css ***/ 
+.choose-style1-area {
+    border-bottom: 1px solid #ebe5db;
+}    
+.choose-style1-image-box:before {
+    position: absolute;
+    top: -120px;
+    left: 230px;
+    bottom: 0px;
+}  
+.choose-style1-image-box img {
+    border-radius: 7px;
+}    
+.choose-style1-content-box {
+    padding-top: 50px;
+    padding-left: 0px;
+}    
+ 
+/*** Project Style2 Area Css ***/
+.project-style2-title-box {
+    width: 100%;
+    height: 100%;
+    padding-top: 110px;
+    padding-right: 0px;
+    padding-bottom: 61px;
+}
+.project-style2-title-box:before {
+    left: -100000px;
+    bottom: 0px;
+    right: -300px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+} 
+.project-style2-title-box:after {
+    left: -100000px;
+    bottom: 0px;
+    right: -300px;
+}      
+.project-style2-content-box {
+    padding-top: 0px;
+}    
+.project-complected-box {
+    position: relative;
+    top: 0;
+    left: 0;
+    right: auto;
+    padding-left: 110px;
+    padding-top: 66px;
+    margin-bottom: 40px;
+}    
+   
+/*** Blog Style2 Area Css ***/ 
+.blog-style2-area .single-blog-style1.style1instyle2 {
+    margin-bottom: 40px;
+}    
+    
+/*** Partner Style2 Area Css ***/     
+.partner-style2-area {
+    padding-top: 80px;
+    padding-bottom: 80px;
+}    
+    
+/*** Contact Form Style1 Area Css ***/  
+.contact-form-outer-box {
+    padding: 60px;
+    padding-bottom: 60px;
+    margin-bottom: -120px;
+}    
+.contact-inner-box {
+    padding-left: 0px;
+    min-height: auto;
+}    
+.contact-inner-box .contact-image-box {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+}    
+.contact-inner-box .contact-image-box img{
+    width: 100%;
+}    
+.contact-form {
+    padding-left: 0px;
+    padding-top: 50px;
+}    
+ 
+/*** About Style2 Area Css ***/     
+.about-style2-image-box .main-image .icon-box {
+    top: 20px;
+    left: 20px;
+}    
+.about-style2-content-box {
+    padding-left: 0px;
+    padding-top: 40px;
+}        
+   
+/*** Faq Page Area Css ***/       
+.faq-right-content-box {
+    position: relative;
+    display: block;
+    margin-top: 10px;
+}    
+    
+/*** Service Details Area Css ***/
+.service-details-sidebar {
+    padding-top: 100px;
+}     
+.service-details-area {
+    padding: 120px 0 120px;
+}    
+.service-details-text-2 .image-box {
+    margin-top: 20px;
+}    
+    
+/*** Project Details Area Css ***/     
+.project-detail-main-image .project-info {
+    padding: 32px 0 32px;
+}    
+.project-detail-main-image .project-info> ul> li {
+    float: none;
+    max-width: 100%;
+    width: 100%;
+    text-align: center;
+}    
+.project-detail-main-image .project-info> ul> li:before {
+    display: none;
+}    
+.project-detail-text-2 .text-box {
+    margin-top: -9px;
+    margin-right: 0px;
+}    
+.video-holder-box {
+    margin-top: 40px;
+    margin-left: 0px;
+}    
+.project-detail-main-image .project-info ul li ul {
+    padding-left: 0px;
+}
+    
+/*** Blog Area Css ***/ 
+.blog-page1-area {
+    padding: 120px 0 90px;
+}    
+.sidebar-wrapper {
+    max-width: 500px;
+    width: 100%;
+    margin-top: 70px;
+}     
+ 
+/*** Blog Single Area Css ***/ 
+.blog-single-area {
+    padding: 120px 0 90px;
+}    
+.tag-social-share-box {
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+}
+.tag-social-share-box .post-social-share {
+    margin-top: 10px;
+}  
+   
+/*** Contact Info Area Css ***/
+.contact-info-area {
+    padding: 120px 0 90px;
+}    
+.single-contact-info-box {
+    padding: 50px 30px 40px;
+    min-height: auto;
+    margin-bottom: 30px;
+}   
+ 
+    
+    
+    
+/*** RTL Page Css ***/    
+.rtl .booking-number-box .icon, 
+.rtl .booking-number-box .title {
+    text-align: center !important;
+} 
+.rtl .single-footer-widget.marleft40 {
+    margin-left: 0px;
+    margin-right: 0px;
+}  
+.rtl .testimonial-style2-image-box {
+    margin-top: 50px;
+    margin-left: 0px;
+    margin-right: 0px;
+}    
+}
+
+/* Mobile Layout: 320px. */
+@media only screen and (max-width: 767px) { 
+.sec-title .sub-title {
+    padding-bottom: 10px;
+}    
+.sec-title h2 {
+    font-size: 36px;
+}    
+.sec-title h2 br{
+    display: none;
+}     
+
+/*** Header Style One Css ***/ 
+.header-top {
+    padding: 31px 0 31px;
+}    
+.header-top-left {
+    float: none;
+    overflow: hidden;
+    text-align: center;
+}    
+.header-top-left .logo {
+    float: none;
+    padding: 0;
+}    
+.header-top-right {
+    display: none;
+}    
+.header-right .header-social-link {
+    display: none;
+}    
+.header-right .button {
+    padding: 25px 0;
+}    
+.header-right .button a {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+/*** About Style1 Area Css ***/  
+.about-style1-area .shape1 img{
+    width: 50%;
+    opacity: .1;
+}    
+.about-style1-area .shape2 img{
+    width: 80%;
+}    
+.about-style1-image-box {
+    max-width: 570px;
+    width: 100%;
+    margin-top: 60px;
+}           
+      
+/*** Featured Style1 Area Css ***/     
+.featured-style1-area {
+    padding: 0 0 120px;
+}    
+ 
+/*** Interior Design Area Css ***/ 
+.interior-design-tab .tab-button-column .tab-buttons li {
+    margin-right: 10px;
+    margin-bottom: 10px;
+    padding: 0 20px;
+}    
+.material-tab-content .text-box {
+    padding-top: 10px;
+}  
+.team-tab-content .single-team-member {
+    margin-bottom: 30px;
+} 
+.work-tab-content .single-project-style1 {
+    margin-bottom: 30px;
+}    
+.interior-design-right-content {
+    padding-top: 80px;
+} 
+.interior-design-content-box {
+    padding-right: 0px;
+}    
+
+/*** Project Style1 Area Css ***/ 
+.project-style1-area {
+    padding: 0px 0 90px;
+} 
+.recent-project-title h2 {
+    font-size: 36px;
+    line-height: 44px;
+}    
+.project-style1-content {
+    position: relative;
+    display: block;
+    margin: 0;
+}    
+.project-style1-content li {
+    max-width: 470px;
+    width: 100%;
+    float: none;
+    margin: 0 auto 30px;
+}
+   
+/*** Service Style1 Area Css ***/   
+.service-style1-area {
+    padding: 120px 0 60px;
+}    
+.single-service-style1 {
+    margin-bottom: 60px;
+}    
+        
+/*** Booking Area Css ***/ 
+.booking-number-box {
+    text-align: center;
+} 
+.booking-number-box .icon {
+    width: 100%;
+    line-height: 60px;
+}    
+.booking-number-box .icon, 
+.booking-number-box .title {
+    display: block;
+}    
+.booking-number-box .icon {
+    width: 100%;
+    margin-bottom: 22px;
+}    
+.booking-number-box .title p {
+    margin: 0 0 4px;
+}    
+ 
+.booking-content-box {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 22px 0 0px;
+}    
+.booking-content-box .text {
+    text-align: center;
+    margin: 0 0 10px;
+    width: 100%;
+}
+.booking-content-box .buttom-box a {
+    line-height: 60px;
+    padding: 0 40px;
+}    
+ 
+/*** Testimonial Style1 Area Css ***/ 
+.testimonial-style1-content {
+    padding-top: 120px;
+    padding-right: 0px;
+}    
+.testimonial-style2-image-box {
+    margin-top: 40px;
+    margin-left: 0px;
+    max-width: 320px;
+    width: 100%;
+}   
+.testimonial-style2-image-box img {
+    max-width: 100%;
+    width: 100%;
+    float: none;
+}    
+.testimonial-style2-image-box .title-box {
+    left: -55px;
+    top: 0px;
+    font-size: 20px;
+    font-weight: 600;
+}  
+.testimonial-style2-image-box .bg-box:before {
+    display: none;
+}      
+    
+/*** Fact Counter Area Css ***/     
+.single-fact-counter {
+    max-width: 100%;
+    width: 100%;
+}    
+.single-fact-counter:after {
+    display: none;
+}    
+    
+/*** Partner Area Css ***/     
+.partner-area {
+    padding-top: 115px;
+    padding-bottom: 75px;
+}    
+.single-partner-logo-box {
+    flex: 0 0 100%;
+    max-width: 100%;
+    text-align: center;
+}        
+    
+/*** Discover Area Css ***/ 
+.discover-area {
+    padding-bottom: 120px;
+}    
+.discover-content-box h2 br{
+    display: none;
+}    
+    
+/*** Footer Area Css ***/        
+.single-footer-widget.marbtm {
+    margin-bottom: 40px;
+}    
+.single-footer-widget.marleft40 {
+    margin-left: 0px;
+}    
+.single-footer-widget.pdtop {
+    padding-top: 40px;
+}    
+
+/*** Header Style Two Css ***/
+.header-style2 .auto-container-box {
+    padding-right: 20px;
+}    
+.header-left-style2 {
+    width: 50%;
+}    
+.header-left-style2 .logo {
+    width: 250px;
+}  
+.phone-number-box {
+    display: none;
+}    
+
+.header-middle-style2 {
+    width: 50%;
+}    
+.header-middle-style2 .nav-outer .mobile-nav-toggler {
+    padding: 42px 0 43px;
+}
+.header-middle-style2 .nav-outer {
+    float: right;
+}      
+.header-right-style2 {
+    display: none;
+}  
+ 
+/*** Welcome Style1 Area Css ***/ 
+.welcome-style1-image-box {
+    max-width: 700px;
+} 
+.welcome-style1-image-box .shape {
+    bottom: 0;
+}    
+.welcome-style1-content-box {
+    padding: 60px 0px 0px;
+}    
+  
+/*** Featured Style2 Area Css ***/       
+.single-featured-style2 {
+    padding: 50px 50px 40px;
+    max-width: 345px;
+    border: none;
+    float: none;
+    margin: 0 auto 30px;
+}
+    
+/*** Choose Style1 Area Css ***/ 
+.choose-style1-area {
+    border-bottom: 1px solid #ebe5db;
+}    
+.choose-style1-image-box:before {
+    position: absolute;
+    top: -120px;
+    left: 230px;
+    bottom: 0px;
+}  
+.choose-style1-area .shape {
+    opacity: 0.05;
+}    
+.choose-style1-image-box img {
+    border-radius: 7px;
+}    
+.choose-style1-content-box {
+    padding-top: 50px;
+    padding-left: 0px;
+}    
+  
+/*** Project Style2 Area Css ***/
+.project-style2-title-box {
+    width: 100%;
+    height: 100%;
+    padding-top: 110px;
+    padding-right: 0px;
+    padding-bottom: 61px;
+}
+.project-style2-title-box:before {
+    left: -100000px;
+    bottom: 0px;
+    right: -300px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+} 
+.project-style2-title-box:after {
+    left: -100000px;
+    bottom: 0px;
+    right: -300px;
+}      
+.project-style2-content-box {
+    padding-top: 0px;
+}    
+.project-complected-box {
+    position: relative;
+    top: 0;
+    left: 0;
+    right: auto;
+    padding-left: 85px;
+    padding-top: 56px;
+    margin-bottom: 0px;
+    padding-bottom: 25px;
+}   
+.project-complected-box .title {
+    padding-left: 20px;
+}    
+.project-complected-box .icon {
+    width: 85px;
+    padding: 60px 0 37px;
+}
+.project-complected-box .title h2 {
+    font-size: 50px;
+    line-height: 52px;
+    margin: 0 0 10px;
+}    
+.project-complected-box .title h3 {
+    font-size: 14px;
+}    
+
+/*** Blog Style2 Area Css ***/ 
+.blog-style2-area .single-blog-style1.style1instyle2 {
+    margin-bottom: 40px;
+}    
+    
+/*** Partner Style2 Area Css ***/     
+.partner-style2-area {
+    padding-top: 80px;
+    padding-bottom: 80px;
+}    
+   
+/*** Contact Form Style1 Area Css ***/  
+.contact-form-outer-box {
+    padding: 30px;
+    padding-bottom: 30px;
+    margin-bottom: -120px;
+}    
+.contact-inner-box {
+    padding-left: 0px;
+    min-height: auto;
+}    
+.contact-inner-box .contact-image-box {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+}    
+.contact-inner-box .contact-image-box img{
+    width: 100%;
+}    
+.contact-form {
+    padding-left: 0px;
+    padding-top: 50px;
+}    
+.contact-form form .button-box button {
+    font-size: 16px;
+    padding: 0 40px;
+}     
+    
+/*** About Style2 Area Css ***/     
+.about-style2-image-box .main-image .icon-box {
+    top: 20px;
+    left: 20px;
+}    
+.about-style2-content-box {
+    padding-left: 0px;
+    padding-top: 40px;
+}        
+ 
+/*** Faq Page Area Css ***/       
+.faq-right-content-box {
+    position: relative;
+    display: block;
+    margin-top: 10px;
+}    
+
+/*** Breadcrumb Area Css ***/     
+.breadcrumb-area .title h2 {
+    font-size: 46px;
+    line-height: 1.2em;
+} 
+    
+/*** Error Page Area Css ***/       
+.error-content .title {
+    font-size: 140px;
+    line-height: 150px;
+    margin: 7px 0 7px;
+}    
+   
+/*** Service Details Area Css ***/ 
+.service-details-sidebar {
+    padding-top: 80px;
+}    
+.service-details-area {
+    padding: 120px 0 120px;
+}    
+.service-details-text-2 .image-box {
+    margin-top: 20px;
+}    
+  
+/*** Project Details Area Css ***/     
+.project-detail-main-image .project-info {
+    position: relative;
+    padding: 32px 0 32px;
+    left: 0px;
+    right: 0px;
+    width: 290px;
+    margin: 0 auto;
+    margin-top: -30px;
+    bottom: 0;
+    z-index: 9999999;
+}  
+.project-detail-main-image .project-info> ul> li {
+    float: none;
+    max-width: 100%;
+    width: 100%;
+    text-align: center;
+}    
+.project-detail-main-image .project-info> ul> li:before {
+    display: none;
+}  
+.project-detail-main-image .project-info ul li ul {
+    padding-left: 0px;
+}   
+    
+.project-detail-text-1 {
+    margin-top: 41px;
+    margin-bottom: 57px;
+}    
+    
+.project-detail-text-2 .text-box {
+    margin-top: -9px;
+    margin-right: 0px;
+} 
+.project-detail-text-2 .text-box h2 br{
+    display: none;
+}    
+.video-holder-box {
+    margin-top: 40px;
+    margin-left: 0px;
+}    
+        
+/*** Blog Area Css ***/ 
+.blog-page1-area {
+    padding: 120px 0 90px;
+}   
+.single-sidebar {
+    padding-left: 20px;
+    padding-right: 20px;
+}    
+.sidebar-wrapper {
+    max-width: 500px;
+    width: 100%;
+    margin-top: 70px;
+}    
+.single-blog-style1 .text-holder {
+    padding: 24px 20px 20px;
+    padding-right: 20px;
+    margin-right: 15px;
+}  
+.single-blog-style1 .img-holder .date-box {
+    right: 15px;
+}    
+.styled-pagination li {
+    margin-right: 5px;
+    margin-bottom: 5px;
+}    
+    
+/*** Blog Single Area Css ***/ 
+.blog-single-area {
+    padding: 120px 0 90px;
+}    
+.tag-social-share-box {
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+}
+.tag-social-share-box .post-social-share {
+    margin-top: 10px;
+}  
+    
+.comment-box .single-comment-box {
+    padding-left: 0px;
+}    
+.comment-box .single-comment-box .img-holder {
+    position: relative;
+    left: 0;
+    top: 0;
+}    
+.comment-box .single-comment-box .text-holder {
+    padding-left: 0px;
+    margin-top: 22px;
+} 
+    
+.single-sidebar .recent-posts li .title-box h4 a br{
+    display: none;
+}  
+ 
+.blog-details-author {
+    padding: 50px 25px 50px;
+}    
+.blog-details-author .inner-box .img-box, 
+.blog-details-author .inner-box .text {
+    display: block;
+}    
+.blog-details-author .inner-box .text {
+    padding-left: 0px;
+    margin-top: 25px;
+}
+.blog-details-author .inner-box .text h3 {
+    margin-bottom: 11px;
+}
+    
+/*** Contact Info Area Css ***/
+.contact-info-area {
+    padding: 120px 0 90px;
+}    
+.single-contact-info-box {
+    padding: 50px 30px 40px;
+    min-height: auto;
+    margin-bottom: 30px;
+} 
+    
+    
+.choose-style1-image-box .overlay-content {
+    padding: 25px 30px 16px;
+}    
+.choose-style1-image-box .overlay-content span:before {
+    font-size: 50px;
+    line-height: 50px;
+} 
+.choose-style1-image-box .overlay-content h3 {
+    font-size: 16px;
+    margin: 9px 0 0;
+} 
+ 
+.project-detail-main-image .project-info ul li ul li span {
+    width: 85px;
+}    
+.project-detail-main-image .project-info ul li ul li {
+    font-size: 16px;
+} 
+    
+    
+.sidebar-contact-info-box {
+    padding: 50px 20px 50px;
+}
+    
+    
+.about-style2-area {
+    padding: 120px 0 112px;
+}    
+    
+    
+    
+  
+/*** RTL Page Css ***/    
+.rtl .booking-number-box .icon, 
+.rtl .booking-number-box .title {
+    text-align: center !important;
+}
+    
+.rtl .testimonial-style1-content {
+    padding-right: 0px;
+    padding-left: 0px;
+} 
+.rtl .testimonial-style2-image-box {
+    margin-top: 40px;
+    margin-left: 0px;
+    margin-right: 0px;
+}    
+.rtl .testimonial-style2-image-box .title-box {
+    left: auto;
+    right: -55px;
+}        
+.rtl .single-footer-widget.marleft40 {
+    margin-left: 0px;
+    margin-right: 0px;
+}   
+}
+
+@media only screen and (min-width: 768px){
+    
+.main-menu .navigation > li > ul,
+.main-menu .navigation > li > ul > li > ul,
+.main-menu .navigation > li .megamenu {
+    display:block !important;
+    visibility:hidden;
+    opacity:0;
+}
+}
+
+@media only screen and (max-width: 1199px) {
+
+    
+/*** 
+=============================================
+    Header Style One Css
+=============================================
+***/ 
+ 
+.main-header .main-menu {
+    position: relative;
+    display: block;
+    width: 100%;
+    float: none;
+}      
+.main-header .nav-outer .main-menu,
+.mainmenu-area .nav-outer .main-menu,
+.sticky-header{
+    display: none !important;
+}
+.nav-outer .mobile-nav-toggler{
+    display: block;
+}
+.mobile-nav-toggler .icon-bar {
+    position: relative;
+    display: block;
+    background: #ffffff;
+    height: 2px;
+    width: 30px;
+    margin: 7px 5px;
+} 
+}
+
+@media only screen and (min-width: 1200px) and (max-width: 1650px) { 
+    
+/*** About Style1 Area Css ***/ 
+.about-style1-area .shape1 img{
+    width: 50%;
+    opacity: .4;
+}    
+.about-style1-area .shape2 img{
+    width: 80%;
+}
+
+/*** About Style2 Area Css ***/     
+.about-style2-image-box .main-image .icon-box {
+    top: 20px;
+    left: 20px;
+}
+    
+/*** RTL About Style2 Area Css ***/     
+.rtl .about-style2-image-box .main-image .icon-box {
+    top: 20px;
+    right: 20px;
+}        
+}
+
+@media only screen and (min-width: 1200px) and (max-width: 1680px) { 
+
+/*** Project Style1 Area Css ***/     
+.project-style1-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}    
+.project-style1-content li {
+    max-width: 205px;
+    width: 100%;
+}
+    
+/*** Header Style Two Css ***/ 
+.header-left-style2 {
+    width: 37%;
+}    
+.header-left-style2 .logo {
+    width: 250px;
+}    
+.main-menu .navigation> li {
+    margin-right: 25px;
+} 
+    
+.header-middle-style2 {
+    width: 48%;
+}
+.header-middle-style2 .nav-outer {
+    padding-left: 25px;
+}    
+  
+.header-right-style2 {
+    width: 15%;
+}    
+.header-right-style2 .header-social-link ul li {
+    margin: 0 1px;
+}    
+}
+
+@media only screen and (min-width: 1200px) and (max-width: 1390px) { 
+ 
+/*** Main Slider Css ***/     
+.main-slider .auto-container {
+    padding: 0px 120px;
+} 
+  
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) { 
+
+/*** Main Slider Css ***/     
+.main-slider .auto-container {
+    padding: 0px 120px;
+}
+.main-slider .content .big-title {
+    margin-top: 25px;
+    margin-bottom: 40px;
+} 
+.main-slider .content .big-title:before {
+    top: 11px;
+    bottom: 10px;
+}    
+.main-slider .content .big-title h2 {
+    font-size: 50px;
+}    
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) { 
+    
+/*** Main Slider Css ***/   
+.main-slider .auto-container {
+    padding: 0px 120px;
+}
+.main-slider .content .big-title {
+    margin-top: 25px;
+    margin-bottom: 40px;
+} 
+.main-slider .content .big-title:before {
+    top: 11px;
+    bottom: 10px;
+}    
+.main-slider .content .big-title h2 {
+    font-size: 50px;
+}   
+  
+}
+
+@media only screen and (min-width: 500px) and (max-width: 767px) { 
+    
+/*** Main Slider Css ***/
+.main-slider .slide {
+    padding: 123px 0px 130px;
+}      
+.main-slider .auto-container {
+    padding: 0px 70px;
+    padding-right: 30px;
+}
+.main-slider .owl-theme .owl-nav .owl-prev {}    
+.main-slider .owl-theme .owl-nav .owl-next {}
+.main-slider .content .big-title {
+    margin-top: 18px;
+    margin-bottom: 31px;
+} 
+.main-slider .content .big-title:before {
+    top: 8px;
+    bottom: 9px;
+}    
+.main-slider .content .big-title h2 {
+    font-size: 40px;
+}   
+.main-slider .content .btns-box a {
+    font-size: 16px;
+    line-height: 60px;
+    padding: 0 50px;
+}
+    
+   
+    
+.rtl .main-slider .auto-container {
+    padding: 0px 70px;
+    padding-left: 30px;
+}    
+
+}
+
+@media only screen and (max-width: 499px) {
+    
+/*** Main Slider Css ***/ 
+.main-slider .auto-container {
+    padding: 0px 30px;
+}   
+.main-slider .owl-theme .owl-nav .owl-prev {
+    display: none;
+}    
+.main-slider .owl-theme .owl-nav .owl-next {
+    display: none;
+}
+    
+.main-slider .slide {
+    padding: 123px 0px 130px;
+}  
+.main-slider .content .big-title {
+    margin-top: 18px;
+    margin-bottom: 31px;
+} 
+.main-slider .content .big-title:before {
+    top: 8px;
+    bottom: 9px;
+}    
+.main-slider .content .big-title h2 {
+    font-size: 40px;
+}  
+.main-slider .content .big-title h2 br{
+    display: none;
+}    
+.main-slider .content .btns-box a {
+    font-size: 16px;
+    line-height: 60px;
+    padding: 0 50px;
+}  
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) { 
+.order-box-2 {
+    -ms-flex-order: 2;
+    order: 2;
+}
+.order-box-1 {
+    -ms-flex-order: 1;
+    order: 1;
+}  
+}
+
+@media only screen and (min-width: 300px) and (max-width: 767px) { 
+.order-box-2 {
+    -ms-flex-order: 2;
+    order: 2;
+}
+.order-box-1 {
+    -ms-flex-order: 1;
+    order: 1;
+}
+}
+@media only screen and (max-width: 1199px){
+    .project-style1-area .auto-container-box .col-md-6 {
+        max-width: 470px;
+        width: 100%;
+        float: none;
+        margin: 0 auto 30px;
+    }
+    .styled-pagination li a , .styled-pagination li span , .page-links a, .page-links span{
+        width: 50px;
+        height: 50px;
+        line-height: 50px;
+    }
+    .styled-pagination li.prev a, .styled-pagination li.next a{
+    line-height: 50px;
+    }
+}
+@media only screen and (max-width: 991px){
+	.service-sidebar {
+    padding-top: 100px;
+}
+}

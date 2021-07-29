@@ -1,0 +1,338 @@
+
+
+/*** 
+=============================================
+   Team Area Css
+=============================================
+***/
+.team-area{
+    position: relative;
+    display: block;
+    padding: 120px 0 80px;
+    background: #ffffff;
+}
+.team-area.pdbottom120{
+    padding-bottom: 120px;
+}
+.single-team-member {
+    position: relative;
+    display: block;
+    margin-bottom: 40px;
+}
+.single-team-member .img-holder {
+    position: relative;
+    display: block;
+    overflow: hidden;
+    border-radius: 5px;
+}
+.single-team-member .img-holder .inner{
+    position: relative;
+    display: block;
+}
+.single-team-member .img-holder .inner::after {
+    position: absolute;
+    top: 0;
+    left: -100%;
+    display: block;
+    content: '';
+    width: 50%;
+    height: 100%;
+    background: linear-gradient(to right, rgba(255,255,255,0) 0%, rgba(255,255,255,.3) 100%);
+    transform: skewX(-25deg);
+    z-index: 2;
+}
+.single-team-member:hover .img-holder .inner::after{
+	-webkit-animation: shine 1.5s;
+	animation: shine 1.5s;
+}
+
+.single-team-member .overlay-style-one {
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    border-radius: 50%;
+    transform: scale(1.3);
+}
+.single-team-member:hover .overlay-style-one{
+    opacity: 1;
+    transform: scale(1.0);
+    border-radius: 50%;
+}
+.single-team-member .img-holder .inner img{
+    width: 100%;
+    transform: scale(1.0);
+    transition: .3s ease-in-out;
+}
+.single-team-member:hover .img-holder .inner img{}
+
+
+.single-team-member .title-holder {
+    position: relative;
+    display: block;
+    background: #f7f4ef;
+    padding: 26px 0 24px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+.single-team-member .title-holder h3 {
+    font-size: 20px;
+    line-height: 20px;
+    font-weight: 700;
+    margin: 0 0 0px;
+}
+.single-team-member .title-holder h3 a {
+    color: #333029;
+    transition: all 500ms linear;
+    transition-delay: 0.1s;
+}
+.single-team-member .title-holder span{
+    position: relative;
+    display: inline-block;
+    color: #84827c;
+    font-size: 16px;
+    line-height: 16px;
+    font-weight: 500;
+}
+
+
+.single-team-member .overlay-social-content{
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background: rgb(0,0,0);
+    background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0) 40%);
+    
+	opacity: 0;
+    -webkit-transform: perspective(400px) rotateY(0deg) translateY(80px);
+    -ms-transform: perspective(400px) rotateY(0deg) translateY(80px);
+    transform: perspective(400px) rotateY(0deg) translateY(80px);
+    -webkit-transform-origin: bottom;
+    -ms-transform-origin: bottom;
+    transform-origin: bottom;
+    -webkit-transition: all 700ms ease;
+    -moz-transition: all 700ms ease;
+    -ms-transition: all 700ms ease;
+    -o-transition: all 700ms ease;
+    transition: all 700ms ease;
+}
+.single-team-member:hover .overlay-social-content{
+	opacity: 1;
+    -webkit-transform: perspective(400px) rotateY(0deg) translateY(0px);
+    -ms-transform: perspective(400px) rotateY(0deg) translateY(0px);
+    transform: perspective(400px) rotateY(0deg) translateY(0px);
+    -webkit-transition-delay: 200ms;
+    -moz-transition-delay: 200ms;
+    -ms-transition-delay: 200ms;
+    -o-transition-delay: 200ms;
+    transition-delay: 200ms;     
+}
+
+.team-social-link{
+    position: absolute;
+    left: 0;
+    bottom: 10px;
+    right: 0;
+}
+.team-social-link ul{
+    overflow: hidden;
+}
+.team-social-link ul li {
+    position: relative;
+    display: inline-block;
+    margin: 0 12px;
+}
+.team-social-link ul li a {
+    position: relative;
+    display: block;
+    color: #ffffff;
+    font-size: 14px;
+    line-height: 30px;
+}
+
+.team-social-link ul li a.fb{
+	opacity: 0;
+    transform: perspective(400px) rotateY(0deg) translateY(80px);
+    transform-origin: bottom;
+    transition: all 300ms ease;
+}
+.single-team-member:hover .team-social-link ul li a.fb{
+	opacity: 1;
+    transform: perspective(400px) rotateY(0deg) translateY(0px);
+    transition-delay: 200ms;     
+}
+.team-social-link ul li a.tw{
+	opacity: 0;
+    transform: perspective(400px) rotateY(0deg) translateY(80px);
+    transform-origin: bottom;
+    transition: all 500ms ease;    
+}
+.single-team-member:hover .team-social-link ul li a.tw{
+	opacity: 1;
+    transform: perspective(400px) rotateY(0deg) translateY(0px);
+    transition-delay: 300ms;     
+}
+.team-social-link ul li a.linkedin{
+	opacity: 0;
+    transform: perspective(400px) rotateY(0deg) translateY(80px);
+    transform-origin: bottom;
+    transition: all 300ms ease;
+}
+.single-team-member:hover .team-social-link ul li a.linkedin{
+	opacity: 1;
+    transform: perspective(400px) rotateY(0deg) translateY(0px);
+    transition-delay: 100ms;     
+}
+.team-social-link ul li a.pint{
+	opacity: 0;
+    transform: perspective(400px) rotateY(0deg) translateY(80px);
+    transform-origin: bottom;
+    transition: all 500ms ease;    
+}
+.single-team-member:hover .team-social-link ul li a.pint{
+	opacity: 1;
+    transform: perspective(400px) rotateY(0deg) translateY(0px);
+    transition-delay: 400ms;     
+}
+
+
+
+
+/*** 
+=============================================
+    Testimonial Style1 Area Css
+=============================================
+***/
+.testimonial-style1-area{
+    position: relative;
+    display: block;
+    background: #333029;
+    padding: 0px 0 0px;
+    z-index: 1;
+}
+.testimonial-style1-area .layer-outer {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    max-width: 640px;
+    width: 100%;
+    opacity: .04;
+    background-repeat: no-repeat;
+    background-position: left top;
+}
+.testimonial-style1-content {
+    position: relative;
+    display: block;
+    padding-top: 120px;
+    padding-right: 90px;
+}
+
+.testimonial-carousel{
+    position: relative;
+    display: block;
+    z-index: 10;
+}
+.testimonial-style1-content .sec-title{
+    padding-bottom: 38px;    
+} 
+.testimonial-style1-content .sec-title .sub-title h3 {
+    color: #a4a097;
+}
+.testimonial-style1-content .sec-title h2 {
+    color: #ffffff;
+}
+.single-testimonial-style1{
+    position: relative;
+    display: block;
+}
+.single-testimonial-style1 .text-holder{
+    position: relative;
+    display: block;
+}
+.single-testimonial-style1 .text-holder .text-box{
+    position: relative;
+    display: block;
+}
+.single-testimonial-style1 .text-holder .text-box p{
+    color: #a4a097;
+    font-size: 20px;
+    line-height: 36px;
+    font-weight: 500;
+    margin: 0;
+}
+
+
+.single-testimonial-style1 .client-info {
+    position: relative;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    padding-top: 34px;
+}
+.single-testimonial-style1 .client-info .image-box{
+    position: relative;
+    display: block;
+    width: 80px;
+}
+.single-testimonial-style1 .client-info .image-box img{
+    width: 100%;
+    border-radius: 50%;
+}
+.single-testimonial-style1 .client-info .title-box{
+    position: relative;
+    display: block;
+    padding-left: 20px;
+}
+.single-testimonial-style1 .client-info .title-box h3{
+    color: #ffffff;
+    font-size: 20px;
+    line-height: 20px;
+    font-weight: 700;
+}
+.single-testimonial-style1 .client-info .title-box span{
+    font-size: 16px;
+    line-height: 26px;
+    font-weight: 500;
+}
+
+.testimonial-style2-image-box{
+    position: relative;
+    display: block;
+}
+.testimonial-style2-image-box img{
+    max-width: none!important;
+    float: left;
+}
+.testimonial-style2-image-box .bg-box{
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 95px;
+}
+.testimonial-style2-image-box .bg-box:before {
+    position: absolute;
+    top: 50%;
+    left: -25px;
+    content: "\f0d7";
+    font-family: FontAwesome;
+    font-size: 80px;
+    text-align: center;
+    transform: translateY(-50%) rotate(90deg);
+}
+
+.testimonial-style2-image-box .title-box {
+    position: absolute;
+    left: -108px;
+    top: 176px;
+    -webkit-transform: rotate(90deg) translateX(50%);
+    -ms-transform: rotate(90deg) translateX(50%);
+    transform: rotate(90deg) translateX(50%);
+    color: #ffffff;
+    font-size: 30px;
+    font-weight: 800;
+    text-transform: capitalize;
+}
