@@ -1,18 +1,19 @@
 import React from 'react';
+import Logo from '../../assets/images/png/replay_log.png';
 
 export default function header() {
   return (
     <>
         <header class="main-header header-style-one">
 
-<div class="header-top">
+<div class="header-top" style={{ height: 100, display: 'flex', alignItems: 'center'}}>
 <div class="auto-container">
-<div class="outer-box clearfix">
-<div class="header-top-left pull-left">
+<div class="outer-box clearfix" style={{display: 'flex', alignItems: 'center'}}>
+<div class="header-top-left pull-left" style={{width:"20%", height: "20%"}}>
 <div class="logo-box pull-left">
 <figure class="logo">
 <a href="index.html">
-<img src="wp-content/themes/wazors/assets/images/logo.png" alt="Logo"/>
+<img src={Logo} alt="Logo" style={{width:"70%", height: "70%"}}/>
 </a>
 </figure>
 </div>
@@ -25,8 +26,8 @@ export default function header() {
 <span class="flaticon-telephone thm-clr"></span>
 </div>
 <div class="text">
-<p>Call</p>
-<h4><a href="tel:886660009999">886660009999</a>
+<p>Appelez</p>
+<h4><a href="tel:+229 62 50 78 77">+229 62 50 78 77</a>
 </h4>
 </div>
 </li>
@@ -35,8 +36,8 @@ export default function header() {
 <span class="flaticon-email thm-clr"></span>
 </div>
 <div class="text">
-<p>Email</p>
-<h4><a href="https://smartdemowp.com/cdn-cgi/l/email-protection#1f717a7a7b777a736f5f76717970317c7072"><span class="__cf_email__" data-cfemail="650b0000010d000915250c0b030a4b060a08">[email&#160;protected]</span></a>
+<p>Courriel</p>
+<h4><a><span class="__cf_email__" data-cfemail="650b0000010d000915250c0b030a4b060a08">replaypaolo@gmail.com</span></a>
 </h4>
 </div>
 </li>
@@ -45,8 +46,8 @@ export default function header() {
 <span class="flaticon-pin-1 thm-clr"></span>
 </div>
 <div class="text">
-<p>Address</p>
-<h4>88 broklyn silver street, USA</h4>
+<p>Adresse</p>
+<h4>Godomey Fignonhou,<br/> en face de l'école HOLY FAMILY,<br/> commune d'abomey Calavi</h4>
 </div>
 </li>
 </ul>
@@ -85,7 +86,7 @@ export default function header() {
 </li>
 </ul>
 </li>
-<li id="menu-item-540" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-540"><a href="#">Pages</a>
+{/* <li id="menu-item-540" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-540"><a href="#">Pages</a>
 <ul class="sub-menu">
 <li id="menu-item-546" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-546"><a href="about/index.html">About Us</a></li>
 <li id="menu-item-545" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-545"><a href="our-work/index.html">Our Work</a></li>
@@ -94,8 +95,8 @@ export default function header() {
 <li id="menu-item-543" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-543"><a href="our-team/index.html">Our Team</a></li>
 <li id="menu-item-1231" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1231"><a href="404.html">404 Error Page</a></li>
 </ul>
-</li>
-<li id="menu-item-552" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-552"><a href="services/index.html">Services</a>
+</li> */}
+{/* <li id="menu-item-552" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-552"><a href="services/index.html">Services</a>
 <ul class="sub-menu">
 <li id="menu-item-565" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-565"><a href="room-wallpaper/index.html">Room Wallpaper</a></li>
 <li id="menu-item-907" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-907"><a href="wall-painting/index.html">Wall Painting</a></li>
@@ -104,14 +105,14 @@ export default function header() {
 <li id="menu-item-913" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-913"><a href="pvc-panels/index.html">PVC Panels</a></li>
 <li id="menu-item-914" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-914"><a href="outdoor-designs/index.html">Outdoor Designs</a></li>
 </ul>
-</li>
-<li id="menu-item-870" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-870"><a href="blog/index.html">Latest News</a>
+</li> */}
+{/* <li id="menu-item-870" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-870"><a href="blog/index.html">Latest News</a>
 <ul class="sub-menu">
 <li id="menu-item-1142" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1142"><a href="blog/index4798.html?blog_style=1">Blog List</a></li>
 <li id="menu-item-1141" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1141"><a href="blog/index20c1.html?blog_style=2">Blog Grid</a></li>
 <li id="menu-item-1145" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1145"><a href="how-to-protect-your-damage-walls-2/index.html">Blog Details</a></li>
 </ul>
-</li>
+</li> */}
 <li id="menu-item-544" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-544"><a href="contact/index.html">Contact</a></li>
 </ul> </div>
 </nav>
@@ -146,14 +147,14 @@ export default function header() {
 </div>
 
 
-<div class="sticky-header">
+<div class="sticky-header" style={{ height: 100,paddingTop: 30 }}>
 <div class="container">
-<div class="clearfix">
+<div class="clearfix"  >
 
-<div class="logo-box pull-left">
+<div class="logo-box pull-left" style={{width:"15%", height: 50, display: 'flex', alignItems: 'center',  }}>
 <figure class="logo">
 <a href="index.html">
-<img src="wp-content/themes/wazors/assets/images/logo.png" alt="Logo"/>
+<img src={Logo} alt="Logo" style={{width:150, height: 120, top:0}}/>
 </a>
 </figure>
 </div>
@@ -169,6 +170,34 @@ export default function header() {
 </div>
 
 </header>
+
+<div class="mobile-menu">
+<div class="menu-backdrop"></div>
+<div class="close-btn"><i class="icon flaticon-multiply"></i></div>
+<nav class="menu-box">
+<div class="nav-logo">
+<a href="index.html"><img src={Logo} alt="Logo" style={{width:150, height: 120, top:0}}/></a>
+</div>
+<div class="menu-outer">
+
+</div>
+<div class="social-links">
+<ul class="clearfix">
+<li>
+<a href="../../www.facebook.com/index.html"><i class="fa fa-facebook"></i></a>
+</li>
+<li>
+<a href="../../www.twitter.com/index.html"><i class="fa fa-twitter"></i></a>
+</li>
+<li>
+<a href="../../www.linkedin.com/index.html"><i class="fa fa-linkedin"></i></a>
+</li>
+<li>
+<a href="../../www.pinterest.com/index.html"><i class="fa fa-pinterest"></i></a>
+</li> </ul>
+</div>
+</nav>
+</div>
     
     </>
   );
